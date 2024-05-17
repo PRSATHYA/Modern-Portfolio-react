@@ -7,7 +7,7 @@ import sql from '../../assets/sql-server.svg';
 import php from '../../assets/php.svg';
 import react from '../../assets/structure.svg';
 import ts from '../../assets/typescript.svg';
-import sass from '../../assets/sathya.svg';
+import sass from '../../assets/sass.svg';
 import tcss from '../../assets/Tailwind-CSS.svg';
 import redux from '../../assets/redux.svg';
 import git from '../../assets/git.svg';
