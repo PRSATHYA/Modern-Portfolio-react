@@ -1,9 +1,9 @@
 import styles from './ProjectsStyles.module.css';
-import viberr from '../../assets/hotel.png';
-import freshBurger from '../../assets/netflix.png';
-import hipsster from '../../assets/blog.png';
-import fitLift from '../../assets/uprent.png';
-import shopping from '../../assets/shopping.png';
+import viberr from '../../assets/hotel.svg';
+import freshBurger from '../../assets/netflix.svg';
+import hipsster from '../../assets/blog.svg';
+import fitLift from '../../assets/uprent.svg';
+import shopping from '../../assets/shopping.svg';
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
