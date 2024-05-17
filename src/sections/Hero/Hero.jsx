@@ -1,13 +1,13 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/sathya.png';
-import sun from '../../assets/sun.png';
-import moon from '../../assets/moon.png';
-import twitterLight from '../../assets/behance.png';
-import twitterDark from '../../assets/behance.png';
+import heroImg from '../../assets/sathya.svg';
+import sun from '../../assets/sun.svg';
+import moon from '../../assets/moon.svg';
+import twitterLight from '../../assets/behance.svg';
+import twitterDark from '../../assets/behance.svg';
 import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
-import linkedinLight from '../../assets/linkedin.png';
-import linkedinDark from '../../assets/linkedin.png';
+import linkedinLight from '../../assets/linkedin.svg';
+import linkedinDark from '../../assets/linkedin.svg';
 import CV from '../../assets/Sathya Poomari.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
