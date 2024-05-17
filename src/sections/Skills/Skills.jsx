@@ -1,20 +1,20 @@
 import styles from './SkillsStyles.module.css';
-import html from '../../assets/html-5.png';
-import css from '../../assets/css-3.png';
-import bs from '../../assets/bootstrap.png';
-import js from '../../assets/java-script.png';
-import sql from '../../assets/sql-server.png';
-import php from '../../assets/php.png';
-import react from '../../assets/structure.png';
-import ts from '../../assets/typescript.png';
-import sass from '../../assets/sass.png';
-import tcss from '../../assets/Tailwind CSS.png';
-import redux from '../../assets/redux.png';
-import git from '../../assets/git.png';
-import figma from '../../assets/figma.png';
-import ps from '../../assets/photoshop.png';
-import xd from '../../assets/xd.png';
-import illustrator from '../../assets/illustrator.png';
+import html from '../../assets/html-5.svg';
+import css from '../../assets/css-3.svg';
+import bs from '../../assets/bootstrap.svg';
+import js from '../../assets/java-script.svg';
+import sql from '../../assets/sql-server.svg';
+import php from '../../assets/php.svg';
+import react from '../../assets/structure.svg';
+import ts from '../../assets/typescript.svg';
+import sass from '../../assets/sathya.svg';
+import tcss from '../../assets/Tailwind-CSS.svg';
+import redux from '../../assets/redux.svg';
+import git from '../../assets/git.svg';
+import figma from '../../assets/figma.svg';
+import ps from '../../assets/photoshop.svg';
+import xd from '../../assets/xd.svg';
+import illustrator from '../../assets/illustrator.svg';
 import SkillList from '../../common/SkillList';
 
 function Skills() {
