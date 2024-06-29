@@ -46,38 +46,36 @@ function Projects() {
           h3="BONIK"
           p="Shopping Website"
         />
-        <pre>
         <ProjectCard
           src={uts}
           link="https://www.behance.net/gallery/196914069/UTS-App"
           h3="UTS APP(Redesign)"
-          p="Shopping Website"
+          p="Train Ticket Booking App"
         />
         <ProjectCard
           src={car}
           link="https://www.behance.net/gallery/197653217/Dream-Car-Rental-App"
           h3="DREAM CAR RENTAL APP"
-          p="Shopping Website"
+          p="Rental Website"
         />
         <ProjectCard
           src={bank}
           link="https://www.behance.net/gallery/197259935/CreDig-Bank-Dashboard"
           h3="CreDig Bank Dashboard"
-          p="Shopping Website"
+          p="Banking"
         />
         <ProjectCard
           src={easy}
           link="https://www.behance.net/gallery/197057631/EasyPay-App"
           h3="EasyPay APP"
-          p="Shopping Website"
+          p="Payment APP"
         />
         <ProjectCard
           src={wow}
           link="https://www.behance.net/gallery/198236823/Wow-Rental"
           h3="WOW RENTAL"
-          p="Shopping Website"
+          p="Rental Website"
         />
-        </pre>
       </div>
     </section>
   );
