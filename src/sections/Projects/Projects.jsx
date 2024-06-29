@@ -4,6 +4,11 @@ import freshBurger from '../../assets/netflix.svg';
 import hipsster from '../../assets/blog.svg';
 import fitLift from '../../assets/uprent.svg';
 import shopping from '../../assets/shopping.svg';
+import wow from '../../assets/wow rentel.png';
+import uts from '../../assets/uts.png';
+import car from '../../assets/dream.png';
+import bank from '../../assets/bank dasboard.png';
+import easy from '../../assets/easypay.png';
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
@@ -43,33 +48,33 @@ function Projects() {
         />
         <pre>
         <ProjectCard
-          src={shopping}
-          link="https://github.com/PRSATHYA/Bonik-Ecommerice-Website-in-React"
-          h3="BONIK"
+          src={uts}
+          link="https://www.behance.net/gallery/196914069/UTS-App"
+          h3="UTS APP(Redesign)"
           p="Shopping Website"
         />
         <ProjectCard
-          src={shopping}
-          link="https://github.com/PRSATHYA/Bonik-Ecommerice-Website-in-React"
-          h3="BONIK"
+          src={car}
+          link="https://www.behance.net/gallery/197653217/Dream-Car-Rental-App"
+          h3="DREAM CAR RENTAL APP"
           p="Shopping Website"
         />
         <ProjectCard
-          src={shopping}
-          link="https://github.com/PRSATHYA/Bonik-Ecommerice-Website-in-React"
-          h3="BONIK"
+          src={bank}
+          link="https://www.behance.net/gallery/197259935/CreDig-Bank-Dashboard"
+          h3="CreDig Bank Dashboard"
           p="Shopping Website"
         />
         <ProjectCard
-          src={shopping}
-          link="https://github.com/PRSATHYA/Bonik-Ecommerice-Website-in-React"
-          h3="BONIK"
+          src={easy}
+          link="https://www.behance.net/gallery/197057631/EasyPay-App"
+          h3="EasyPay APP"
           p="Shopping Website"
         />
         <ProjectCard
-          src={shopping}
-          link="https://github.com/PRSATHYA/Bonik-Ecommerice-Website-in-React"
-          h3="BONIK"
+          src={wow}
+          link="https://www.behance.net/gallery/198236823/Wow-Rental"
+          h3="WOW RENTAL"
           p="Shopping Website"
         />
         </pre>
