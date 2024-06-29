@@ -6,10 +6,11 @@ import js from '../../assets/java-script.svg';
 import sql from '../../assets/sql-server.svg';
 import php from '../../assets/php.svg';
 import react from '../../assets/structure.svg';
-import ts from '../../assets/typescript.svg';
-import sass from '../../assets/sass.svg';
-import tcss from '../../assets/Tailwind-CSS.svg';
-import redux from '../../assets/redux.svg';
+import ts from '../../assets/ux.png';
+import sass from '../../assets/ui.png';
+import tcss from '../../assets/prototype.png';
+import redux from '../../assets/wireframe.png';
+import user from '../../assets/user.png';
 import git from '../../assets/git.svg';
 import figma from '../../assets/figma.svg';
 import ps from '../../assets/photoshop.svg';
@@ -33,10 +34,11 @@ function Skills() {
       <hr />
       <div className={styles.skillList}>
         <SkillList src={react} skill="React" />
-        <SkillList src={ts} skill="Typescript" />
-        <SkillList src={sass} skill="Sass" />
-        <SkillList src={tcss} skill="Tailwind CSS" />
-        <SkillList src={redux} skill="Redux" />
+        <SkillList src={ts} skill="UX Research" />
+        <SkillList src={sass} skill="UI Design" />
+        <SkillList src={tcss} skill="Prototype" />
+        <SkillList src={redux} skill="WireFrame" />
+        <SkillList src={user} skill="User-Centered Design" />
       </div>
       <hr />
       <div className={styles.skillList}>
