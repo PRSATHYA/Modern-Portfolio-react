@@ -53,7 +53,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps & UI/UX Designer for commercial
+          With a passion for developing modern React web apps & UI/UX Design for commercial
           businesses.
         </p>
         <a href={CV} download>
