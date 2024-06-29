@@ -78,7 +78,7 @@ function Projects() {
           />
       </div>
     </section>
-  )
-}
+  );
+};
 
 export default Projects;
