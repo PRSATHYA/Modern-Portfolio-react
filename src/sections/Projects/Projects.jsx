@@ -4,10 +4,10 @@ import freshBurger from '../../assets/netflix.svg';
 import hipsster from '../../assets/blog.svg';
 import fitLift from '../../assets/uprent.svg';
 import shopping from '../../assets/shopping.svg';
-import wow from '../../assets/wow rentel.png';
+import wow from '../../assets/wow.png';
 import uts from '../../assets/uts.png';
 import car from '../../assets/dream.png';
-import bank from '../../assets/bank dasboard.png';
+import bank from '../../assets/bank.png';
 import easy from '../../assets/easypay.png';
 import ProjectCard from '../../common/ProjectCard';
 
