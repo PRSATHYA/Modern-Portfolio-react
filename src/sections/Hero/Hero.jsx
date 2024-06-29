@@ -41,7 +41,7 @@ function Hero() {
           Poomari
         </h1>
         <h2>Frontend Developer</h2>
-        <h2>/</h2>
+        <h2>&</h2>
         <h2>UI/UX Designer</h2>
         <span>
           <a href="https://www.behance.net/prsathya" target="_blank">
