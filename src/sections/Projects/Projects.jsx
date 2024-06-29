@@ -41,7 +41,7 @@ function Projects() {
           h3="BONIK"
           p="Shopping Website"
         />
-        /n
+        <pre>
         <ProjectCard
           src={shopping}
           link="https://github.com/PRSATHYA/Bonik-Ecommerice-Website-in-React"
@@ -72,7 +72,7 @@ function Projects() {
           h3="BONIK"
           p="Shopping Website"
         />
-      
+          </pre>
       </div>
     </section>
   );
