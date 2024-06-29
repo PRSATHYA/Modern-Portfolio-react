@@ -75,7 +75,7 @@ function Projects() {
           link="https://www.behance.net/gallery/198236823/Wow-Rental"
           h3="WOW RENTAL"
           p="Rental Website"
-        />
+          />
       </div>
     </section>
   );
